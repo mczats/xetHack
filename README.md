@@ -1,5 +1,6 @@
 # xetHack
-Windows NT Screensaver Hack
+Windows NT Screensaver Hack <!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/ppiy/xethack/archive/HEAD.zip" data-icon="octicon-download" data-size="large" aria-label="Download ppiy/xethack on GitHub">Download</a>
 
 Credit For Microsoft Sysinternals (Winternals) For Example
 pPiy (us) For Modification
