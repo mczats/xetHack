@@ -1,2 +1,5 @@
 # xetHack
-Windows XP Screensaver Hack (Modified Winternals BlueScreen)
+Windows NT Screensaver Hack
+
+Credit For Microsoft Sysinternals (Winternals) For Example
+Me For Modification
